@@ -19,5 +19,4 @@ function comprar() {
      console.log(quant_inferior);
     }
     
-    
 }
